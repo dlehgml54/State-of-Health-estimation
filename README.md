@@ -1,3 +1,4 @@
 # State-of-Health-estimation
-![image](https://github.com/dlehgml54/State-of-Health-estimation/assets/16631136/5fcd9fa6-dc81-4be9-b318-6e0c2b71e48b)
-![image](https://github.com/dlehgml54/State-of-Health-estimation/assets/16631136/02943407-dc1d-4f8b-88ed-07c804d18090)
+![image](https://github.com/dlehgml54/State-of-Health-estimation/assets/16631136/6250bc41-44c9-44a0-82c9-216d343e6ca7)
+![image](https://github.com/dlehgml54/State-of-Health-estimation/assets/16631136/c1ed45be-c50d-40f0-9d65-709e02e47f95)
+
